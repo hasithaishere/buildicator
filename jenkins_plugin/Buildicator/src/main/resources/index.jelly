@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin make the connectivity to notify build status for Buildicator hardware components via <a href="http://mqtt.org/">the MQTT protocol</a>.
+</div>
